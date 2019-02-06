@@ -1,0 +1,147 @@
+{
+	"basics": {
+		"name": "Valentin Jarysta",
+		"label": "Front-end developer",
+		"picture": "picture.jpeg",
+		"email": "vjarysta@gmail.com",
+		"phone": "+33 (0)6 26 51 00 50",
+		"summary": "Enthusiast web developer.",
+		"location": {
+			"address": "1, rue Barberousse",
+			"postalCode": "59800",
+			"city": "Lille",
+			"countryCode": "FR",
+			"region": "Nord"
+		},
+		"profiles": [{
+			"network": "Twitter",
+			"username": "vjarysta",
+			"url": "http://twitter.com/vjarysta"
+		}]
+	},
+	"work": [{
+		"company": "SFEIR",
+		"position": "Front-end developer",
+		"website": "https://www.sfeir.com/",
+		"startDate": "2018-02-05",
+		"endDate": "2019-04-01",
+		"summary": "I improved my code quality at SFEIR, in different ways. I was introduced to Test-Driven Development and instantly loved it. Behavior-Driven Development was also mandatory for every feature.",
+		"highlights": [
+			"Vue.js",
+			"React.js",
+			"Jest",
+			"Cucumber.js",
+			"Webpack",
+			"HTML",
+			"CSS",
+			"Git",
+			"Npm",
+			"Agile"
+		]
+	}, {
+		"company": "Temelio",
+		"position": "Front-end developer",
+		"website": "http://temelio.com/",
+		"startDate": "2016-11-07",
+		"endDate": "2018-01-26",
+		"summary": "Working at Temelio helped me gain rigor. Startup with around twenty employees, they gave me the opportunity to learn processes and tools used by most of the tech companies (Jira, Git Flow, code reviews). My work first was to add new features to the onboarding platform, then diversified: I had the opportunity to code in Python, to automate the generation and sending of a detailed PDF report sent weekly to clients, in PHP for the partners synchronizations (tracking pixels).",
+		"highlights": [
+			"Angular.js",
+			"HTML",
+			"CSS",
+			"Python 3",
+			"PHP",
+			"Git",
+			"Gulp",
+			"Npm",
+			"Agile",
+			"Jira"
+		]
+	}, {
+		"company": "Kostango",
+		"position": "Front-end developer (internship)",
+		"website": "https://kostango.com/",
+		"startDate": "2016-04-11",
+		"endDate": "2014-11-28",
+		"summary": "Second professional experience in a startup, in which I mostly improved my Angular.js skills. In charge of all the front-end part of the platform, I also developed back-end modules, using Django REST and PostgreSQL. The sysadmin part was also one of my roles.",
+		"highlights": [
+			"Angular.js",
+			"HTML",
+			"CSS",
+			"Bootstrap",
+			"Django REST",
+			"Git",
+			"Grunt",
+			"Npm",
+			"Bower",
+			"Nginx",
+			"Agile",
+			"Pivotal Tracker"
+		]
+	}, {
+		"company": "Pickwave",
+		"position": "Full-stack web developer (internship)",
+		"startDate": "2014-09-08",
+		"endDate": "2014-12-19",
+		"summary": "My internship in this company was my first professional experience, in which I learned JavaScript technologies. In a team of 3 developers, I participated in the development of the platform from scratch, which was a professional social network, for the cinema world. I had the opportunity to learn JavaScript from the MEAN.JS stack, and improve my Angular.js skills.",
+		"highlights": [
+			"MongoDB",
+			"Express",
+			"Angular.js",
+			"Node.js",
+			"HTML",
+			"CSS",
+			"Git",
+			"Grunt",
+			"Npm",
+			"Bower",
+			"Bootstrap",
+			"Agile",
+			"Pivotal Tracker"
+		]
+	}],
+	"education": [{
+		"institution": "42",
+		"area": "Computer Science",
+		"startDate": "2013-11-04",
+		"endDate": "2016-11-04",
+		"courses": [
+			"Algorithmics",
+			"Graphics",
+			"UNIX"
+		]
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Intermediate",
+		"keywords": [
+			"JavaScript",
+			"Angular",
+			"React.js",
+			"Vue.js",
+			"HTML",
+			"CSS"
+		]
+	}],
+	"languages": [{
+		"name": "French",
+		"level": "Native speaker"
+	}, {
+		"name": "English",
+		"level": "Intermediate"
+	}],
+	"interests": [{
+		"name": "Music",
+		"keywords": [
+			"Saxophone",
+			"Guitar",
+			"Keyboard"
+		]
+	}, {
+		"name": "Domotics",
+		"keywords": [
+			"Raspberry PI",
+			"Arduino"
+		]
+	}]
+}
